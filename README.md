@@ -1,17 +1,6 @@
-# EsoMath
+# Eso-Math
 
-## Intro
+> [!important]
+> See [#36](https://github.com/Rudxain/eso-math.ts/pull/36)
 
 Most math libs are focused on arithmetic and algebra, and practical applications like cryptography. This lib is targeted at Pure Math, Number Theory, and recreational math.
-
-## Usage
-
-If you want to import individual modules, import from [`lib`](./src/lib). If you want the whole lib, import [main `index`](./src/index.js). The [`mod`](./src/mod) dir is for *internal use* only, **don't import** it.
-
-## ⚠DISCLAIMER
-
-This is still in the process of migrating from IIFE format to ESM format, so currently **A LOT** of files in this repo are unfinished, in need of refactoring, or all at the same time (sorry lol). If you're unsure and want to avoid problems, just read the Issues tab, most bugs and unfinished stuff are described there.
-
-The API is **extremely unstable** right now, expect many breaking changes.
-
-I'll remove a lot of features, to keep only the stuff that hasn't been already done. See [issue 32](https://github.com/Rudxain/NTML.js/issues/32).
