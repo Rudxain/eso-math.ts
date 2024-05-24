@@ -1,4 +1,4 @@
-import { M as nthMersenne } from "../lib/Mersenne"
+import { M as nthMersenne } from "../lib/Mersenne.js"
 
 /** 2pi */
 export const TAU = Math.PI * 2

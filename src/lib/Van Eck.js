@@ -1,4 +1,4 @@
-import '../typedefs'
+import '../typedefs.ts'
 import {autoN, toNumeric} from '../mod/sanitize'
 import {abs} from '../mod/std'
 import {trunc} from './rounding'

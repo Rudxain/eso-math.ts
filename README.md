@@ -1,12 +1,6 @@
 # EsoMath
 
-## Intro
-
 Most math libs are focused on arithmetic and algebra, and practical applications like cryptography. This lib is targeted at Pure Math, Number Theory, and recreational math.
-
-## Usage
-
-If you want to import individual modules, import from [`lib`](./src/lib). If you want the whole lib, import [main `index`](./src/index.js). The [`mod`](./src/mod) dir is for *internal use* only, **don't import** it.
 
 ## ⚠DISCLAIMER
 

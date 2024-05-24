@@ -1,4 +1,4 @@
-import '../typedefs'
+import '../typedefs.ts'
 
 import { isInt, isInfNAN, isNAN } from './value check'
 import { autoN } from './sanitize'

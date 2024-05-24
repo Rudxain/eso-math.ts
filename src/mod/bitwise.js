@@ -1,4 +1,4 @@
-import '../typedefs'
+import '../typedefs.ts'
 
 import { MANTISSA_SIZE } from './const'
 import { isInt, isInfNAN } from './value check'

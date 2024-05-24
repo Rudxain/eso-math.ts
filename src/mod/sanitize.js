@@ -1,4 +1,4 @@
-import '../typedefs'
+import '../typedefs.ts'
 import {
 	isPrimitive as isPrim,
 	isNumber as isFloat,
